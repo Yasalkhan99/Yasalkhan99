@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yasalkhan 👋</h1>
+<h1 align="center">Hi there, I'm Yasal Khan 👋</h1>
 <h3 align="center">A Passionate Developer & AI Enthusiast from Pakistan 🇵🇰</h3>
 
 ---
@@ -8,7 +8,7 @@
 - 🎓 CS student at FAST-NUCES  
 - 🚀 Building fun and useful tools using Python & JavaScript  
 - 💡 Interested in AI, Web Scraping, Frontend Development & Automation  
-- 📫 Reach me: yasalkhan99@example.com  
+- 📫 Reach me: yasalkhan99@gmail.com  
 
 ---
 
@@ -32,6 +32,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yasalkhan99&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasalkhan99&layout=compact&theme=radical" height="150" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yasalkhan99&theme=radical" height="150" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yasalkhan99&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yasalkhan99&theme=radical&no-frame=true&row=1" />
+</p>
+
+
+
 
 ---
 
