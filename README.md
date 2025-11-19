@@ -8,7 +8,7 @@
 - 🎓 CS student at FAST-NUCES  
 - 🚀 Building fun and useful tools using Python & JavaScript  
 - 💡 Interested in AI, Web Scraping, Frontend Development & Automation  
-- 📫 Reach me: yasalkhan99@gmail.com  
+- 📫 Reach me: yasalkhan90@gmail.com  
 
 ---
 
