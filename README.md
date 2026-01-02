@@ -1,14 +1,35 @@
 <h1 align="center">Hi there, I'm Yasal Khan 👋</h1>
 <h3 align="center">A Passionate Developer & AI Enthusiast from Pakistan 🇵🇰</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yasalkhan99&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/Yasalkhan99?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/Yasalkhan99?label=Stars&style=flat&color=yellow" />
+</p>
+
+---
+
+### 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yasalkhan99&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAST--NUCES-CS%20Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-Expert-orange?style=for-the-badge" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 CS student at FAST-NUCES  
-- 🚀 Building fun and useful tools using Python & JavaScript  
-- 💡 Interested in AI, Web Scraping, Frontend Development & Automation  
-- 📫 Reach me: yasalkhan90@gmail.com  
+- 🎓 CS student at **FAST-NUCES**  
+- 🚀 Building fun and useful tools using **Python & JavaScript**  
+- 💡 Interested in **AI, Web Scraping, Frontend Development & Automation**  
+- 📫 Reach me: **yasalkhan90@gmail.com**
 
 ---
 
@@ -35,15 +56,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Yasalkhan99&theme=radical" height="150" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yasalkhan99&theme=radical" height="150" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yasalkhan99&theme=radical&no-frame=true&row=1" />
-</p>
-
-
-
 
 ---
 
@@ -51,4 +64,3 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasalkhan99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yasal-khan-3b9048b7/)
-
